@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58dd223a-f630-471a-84d8-f2cafdc6dc9a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello World!/Hello World!.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloJava/HelloJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L1.1 Simple web server/.idea/HW01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningJava/LearningJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Neuron/Neuron.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../informatikaEGE/informatikaEGE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../raspiMediaPlayer/raspiMediaPlayer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/AllBalancedParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/BattleField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/BreakСamelCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/BuildAPileOfCubes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/ConvertStringToCamelCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/DecimalToAnyRationalOrIrrationalBaseConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/DuplicateEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/GiveMeADiamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/LastDigitOfALargeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/MatrixDeterminant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/PerimeterOfSquaresInARectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/PersistentBugger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/PickPeaks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/PyramidSlideDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/RGBToHexConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/SimplePigLatin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/Snail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/SquareEveryDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/SquareSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/StripComments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/SudokuSolutionValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/SumOfIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/TriangulaterOfMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/CodewarsCom/YourOrderPleaseSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/LeetCode/MaximumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/LeetCode/WetBandits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/MGTU/Graphic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/MGTU/PifagorTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/Yandex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/myPackege/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/myPackege/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/src/myPackege/TinkoffTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikLearning/stepikLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../terminalController/terminalController.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Leonid-Sramatov-simple-java-server" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Leonid-Sramatov-simple-java-server" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Leonid-Sramatov-simple-java-server" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N6HE4SGHxLwd9Fy8BAPJyQJuQt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/leonid/IdeaProjects/Leonid-Sramatov-simple-java-server",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RunManager" selected="Gradle.Leonid-Sramatov-simple-java-server [build]">
+    <configuration name="WebServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.WebServer" />
+      <module name="Leonid-Sramatov-simple-java-server.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leonid-Sramatov-simple-java-server [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="Leonid-Sramatov-simple-java-server [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="Leonid-Sramatov-simple-java-server [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Leonid-Sramatov-simple-java-server [build]" />
+        <item itemvalue="Gradle.Leonid-Sramatov-simple-java-server [jar]" />
+        <item itemvalue="Gradle.Leonid-Sramatov-simple-java-server [clean]" />
+        <item itemvalue="Application.WebServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58dd223a-f630-471a-84d8-f2cafdc6dc9a" name="Changes" comment="" />
+      <created>1678977498398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678977498398</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
